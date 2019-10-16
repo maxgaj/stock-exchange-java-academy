@@ -11,7 +11,7 @@ class StockRepositoryTest {
     void givenStockRepository_whenGetInfoForValidKey_getCorrectStock() {
         StockRepository repository = new StockRepository();
         Stock stock = repository.getStockInformation("AAPL");
-        Assertions.assertEquals("Apple", stock.getName());
+        Assertions.assertEquals("Apple2", stock.getName());
     }
 
     @Test
