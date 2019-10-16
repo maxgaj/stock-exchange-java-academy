@@ -1,0 +1,7 @@
+### IntelliJ ###
+.idea
+stock-exchange.iml
+
+### java ###
+target
+*.class
