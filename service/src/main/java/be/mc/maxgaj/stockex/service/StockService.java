@@ -1,4 +1,8 @@
-package be.mc.maxgaj.stockex;
+package be.mc.maxgaj.stockex.service;
+
+import be.mc.maxgaj.stockex.domain.Stock;
+import be.mc.maxgaj.stockex.domain.StockRepository;
+import be.mc.maxgaj.stockex.interfaces.ExternalStockInformationService;
 
 import java.math.BigDecimal;
 

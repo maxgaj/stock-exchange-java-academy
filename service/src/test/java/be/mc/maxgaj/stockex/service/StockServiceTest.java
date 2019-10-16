@@ -1,5 +1,7 @@
-package be.mc.maxgaj.stockex;
+package be.mc.maxgaj.stockex.service;
 
+import be.mc.maxgaj.stockex.domain.Stock;
+import be.mc.maxgaj.stockex.service.StockService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

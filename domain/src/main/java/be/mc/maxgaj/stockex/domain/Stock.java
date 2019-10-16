@@ -1,4 +1,4 @@
-package be.mc.maxgaj.stockex;
+package be.mc.maxgaj.stockex.domain;
 
 import java.math.BigDecimal;
 

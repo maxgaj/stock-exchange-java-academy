@@ -1,5 +1,6 @@
-package be.mc.maxgaj.stockex;
+package be.mc.maxgaj.stockex.interfaces;
 
+import be.mc.maxgaj.stockex.interfaces.ExternalStockInformationService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

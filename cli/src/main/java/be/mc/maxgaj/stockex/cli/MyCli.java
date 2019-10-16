@@ -1,4 +1,6 @@
-package be.mc.maxgaj.stockex;
+package be.mc.maxgaj.stockex.cli;
+
+import be.mc.maxgaj.stockex.api.StockExchangeController;
 
 public class MyCli {
     public static void main(String[] args) {

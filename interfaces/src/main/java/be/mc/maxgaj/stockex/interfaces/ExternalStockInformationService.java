@@ -1,4 +1,4 @@
-package be.mc.maxgaj.stockex;
+package be.mc.maxgaj.stockex.interfaces;
 
 import org.apache.commons.lang3.RandomUtils;
 

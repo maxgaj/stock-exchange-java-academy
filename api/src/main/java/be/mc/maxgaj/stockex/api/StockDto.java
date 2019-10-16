@@ -1,4 +1,6 @@
-package be.mc.maxgaj.stockex;
+package be.mc.maxgaj.stockex.api;
+
+import be.mc.maxgaj.stockex.domain.Stock;
 
 public class StockDto {
     private final String name;

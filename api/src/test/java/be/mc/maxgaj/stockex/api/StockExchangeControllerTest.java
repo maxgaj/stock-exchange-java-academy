@@ -1,5 +1,7 @@
-package be.mc.maxgaj.stockex;
+package be.mc.maxgaj.stockex.api;
 
+import be.mc.maxgaj.stockex.api.StockDto;
+import be.mc.maxgaj.stockex.api.StockExchangeController;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
