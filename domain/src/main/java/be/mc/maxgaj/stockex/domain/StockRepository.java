@@ -1,7 +1,11 @@
 package be.mc.maxgaj.stockex.domain;
 
 import com.google.common.collect.ImmutableMap;
+import org.springframework.stereotype.Component;
 
+import javax.inject.Named;
+
+@Component
 public class StockRepository {
     private ImmutableMap<String, Stock> stockDB;
 
